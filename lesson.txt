@@ -1,0 +1,4 @@
+. When a function calls itself it is called recursion. 
+. Same type ki choti solution pe depend krta hai. 
+. Base case me return likhna mandatory hai.
+. Base case btaega rukna kab hai. 
